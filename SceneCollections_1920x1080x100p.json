@@ -320,8 +320,8 @@
             "versioned_id": "input-overlay",
             "settings": {
                 "io.input_source": "这台电脑",
-                "io.layout_file": "C:/Users/Administrator/Downloads/qwerty/qwerty.json",
-                "io.overlay_image": "C:/Users/Administrator/Downloads/qwerty/qwerty.png"
+                "io.overlay_image": "C:/Users/Administrator/Downloads/input-overlay-5.0.4-presets/qwerty/qwerty.png",
+                "io.layout_file": "C:/Users/Administrator/Downloads/input-overlay-5.0.4-presets/qwerty/qwerty.json"
             },
             "mixers": 0,
             "sync": 0,
@@ -348,8 +348,8 @@
             "versioned_id": "input-overlay",
             "settings": {
                 "io.input_source": "这台电脑",
-                "io.layout_file": "C:/Users/Administrator/Downloads/mouse/mouse-no-movement.json",
-                "io.overlay_image": "C:/Users/Administrator/Downloads/mouse/mouse.png"
+                "io.overlay_image": "C:/Users/Administrator/Downloads/input-overlay-5.0.4-presets/mouse/mouse.png",
+                "io.layout_file": "C:/Users/Administrator/Downloads/input-overlay-5.0.4-presets/mouse/mouse-no-movement.json"
             },
             "mixers": 0,
             "sync": 0,

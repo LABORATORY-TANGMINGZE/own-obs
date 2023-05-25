@@ -189,8 +189,8 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1250.0,
-                            "y": 850.0
+                            "x": 850.0,
+                            "y": 10.0
                         },
                         "scale": {
                             "x": 0.27307483553886414,
@@ -227,8 +227,8 @@
                         "locked": true,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1750.0,
-                            "y": 850.0
+                            "x": 700.0,
+                            "y": 10.0
                         },
                         "scale": {
                             "x": 0.52631580829620361,
@@ -293,7 +293,7 @@
             "versioned_id": "monitor_capture",
             "settings": {
                 "method": 2,
-                "monitor_id": "\\\\?\\DISPLAY#PHLC24B#5&15e81812&0&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}"
+                "monitor_id": "\\\\?\\DISPLAY#PHLC21E#5&15e81812&0&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}"
             },
             "mixers": 0,
             "sync": 0,
@@ -320,8 +320,8 @@
             "versioned_id": "input-overlay",
             "settings": {
                 "io.input_source": "这台电脑",
-                "io.overlay_image": "C:/Users/Administrator/Downloads/input-overlay-5.0.4-presets/qwerty/qwerty.png",
-                "io.layout_file": "C:/Users/Administrator/Downloads/input-overlay-5.0.4-presets/qwerty/qwerty.json"
+                "io.layout_file": "C:/Users/Administrator/Downloads/input-overlay-5.0.4-presets/qwerty/qwerty.json",
+                "io.overlay_image": "C:/Users/Administrator/Downloads/input-overlay-5.0.4-presets/qwerty/qwerty.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -348,8 +348,8 @@
             "versioned_id": "input-overlay",
             "settings": {
                 "io.input_source": "这台电脑",
-                "io.overlay_image": "C:/Users/Administrator/Downloads/input-overlay-5.0.4-presets/mouse/mouse.png",
-                "io.layout_file": "C:/Users/Administrator/Downloads/input-overlay-5.0.4-presets/mouse/mouse-no-movement.json"
+                "io.layout_file": "C:/Users/Administrator/Downloads/input-overlay-5.0.4-presets/mouse/mouse-no-movement.json",
+                "io.overlay_image": "C:/Users/Administrator/Downloads/input-overlay-5.0.4-presets/mouse/mouse.png"
             },
             "mixers": 0,
             "sync": 0,

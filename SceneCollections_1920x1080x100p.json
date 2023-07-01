@@ -183,7 +183,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "输入叠加",
+                        "name": "Keyboard",
                         "source_uuid": "f0a24962-f808-4dd9-aab5-38b2b5108cfd",
                         "visible": true,
                         "locked": true,
@@ -221,7 +221,7 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "输入叠加 2",
+                        "name": "Mouse",
                         "source_uuid": "07d508aa-c5d3-4cc7-ad93-addae65fec4c",
                         "visible": true,
                         "locked": true,
@@ -275,10 +275,10 @@
                 "OBSBasic.SelectScene": [],
                 "libobs.show_scene_item.显示器采集": [],
                 "libobs.hide_scene_item.显示器采集": [],
-                "libobs.show_scene_item.输入叠加": [],
-                "libobs.hide_scene_item.输入叠加": [],
-                "libobs.show_scene_item.输入叠加 2": [],
-                "libobs.hide_scene_item.输入叠加 2": []
+                "libobs.show_scene_item.Keyboard": [],
+                "libobs.hide_scene_item.Keyboard": [],
+                "libobs.show_scene_item.Mouse": [],
+                "libobs.hide_scene_item.Mouse": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -293,7 +293,7 @@
             "versioned_id": "monitor_capture",
             "settings": {
                 "method": 2,
-                "monitor_id": "\\\\?\\DISPLAY#PHLC21E#5&15e81812&0&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}"
+                "monitor_id": "\\\\?\\DISPLAY#PHLC24B#5&15e81812&0&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}"
             },
             "mixers": 0,
             "sync": 0,
@@ -314,14 +314,14 @@
         },
         {
             "prev_ver": 486604801,
-            "name": "输入叠加",
+            "name": "Keyboard",
             "uuid": "f0a24962-f808-4dd9-aab5-38b2b5108cfd",
             "id": "input-overlay",
             "versioned_id": "input-overlay",
             "settings": {
                 "io.input_source": "这台电脑",
-                "io.layout_file": "C:/Users/Administrator/Downloads/input-overlay-5.0.4-presets/qwerty/qwerty.json",
-                "io.overlay_image": "C:/Users/Administrator/Downloads/input-overlay-5.0.4-presets/qwerty/qwerty.png"
+                "io.layout_file": "C:/Users/Administrator/Downloads/own-obs/yghj/yghj-minimal.json",
+                "io.overlay_image": "C:/Users/Administrator/Downloads/own-obs/yghj/yghj-minimal.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -342,14 +342,19 @@
         },
         {
             "prev_ver": 486604801,
-            "name": "输入叠加 2",
+            "name": "Mouse",
             "uuid": "07d508aa-c5d3-4cc7-ad93-addae65fec4c",
             "id": "input-overlay",
             "versioned_id": "input-overlay",
             "settings": {
                 "io.input_source": "这台电脑",
-                "io.layout_file": "C:/Users/Administrator/Downloads/input-overlay-5.0.4-presets/mouse/mouse-no-movement.json",
-                "io.overlay_image": "C:/Users/Administrator/Downloads/input-overlay-5.0.4-presets/mouse/mouse.png"
+                "io.layout_file": "C:/Users/Administrator/Downloads/own-obs/mouse/mouse-no-movement.json",
+                "io.overlay_image": "C:/Users/Administrator/Downloads/own-obs/mouse/mouse.png",
+                "io.monitor_use_center": false,
+                "io.mouse_sens": 1,
+                "io.monitor_h_center": 1000,
+                "io.monitor_v_center": 100,
+                "io.mouse_deadzone": 0
             },
             "mixers": 0,
             "sync": 0,

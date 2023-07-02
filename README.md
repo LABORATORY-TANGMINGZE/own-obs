@@ -2,8 +2,8 @@
 
 ## 操作步骤
 
-1. ^ Clone [LABORATORY-TANGMINGZE/own-obs main.zip | Github](https://github.com/LABORATORY-TANGMINGZE/own-obs/archive/refs/heads/main.zip) [2]
-2. ^ Extract main.zip to own-obs [3]
+1. ^ Clone [LABORATORY-TANGMINGZE/own-obs own-obs-main.zip | Github](https://github.com/LABORATORY-TANGMINGZE/own-obs/archive/refs/heads/main.zip) [2]
+2. ^ Extract own-obs-main.zip to own-obs [3]
 3. ^ [OBS-Studio-29.1.1-Full-Installer-x64.exe | Github](https://github.com/obsproject/obs-studio/releases/download/29.1.1/OBS-Studio-29.1.1-Full-Installer-x64.exe) [4]
 4. ^ [input-overlay-5.0.4-windows-x64-Installer.exe | Github](https://github.com/univrsal/input-overlay/releases/download/v5.0.4/input-overlay-5.0.4-windows-x64-Installer.exe) [5]
 5. ^ [2022.01 Scene Collections | OBS](https://obsproject.com/kb/scene-collections) [6]

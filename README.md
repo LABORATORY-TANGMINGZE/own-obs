@@ -10,7 +10,7 @@
 6. ^ [IMPORT SceneCollections_Program.json](SceneCollections_Program.json) [7]
 7. ^ START / STOP own-displaymirror\nginx_1.7.11.3_Gryphon [8]
 8. ^ OBS 设置 直播 自定义 rtmp://127.0.0.1:1935/live stream [9]
-9. ^ INSTALL [python-3.7.0-amd64.exe | Huaweicloud](https://repo.huaweicloud.com/python/3.7.0/python-3.7.0-amd64.exe) [10]
+9. ^ INSTALL [python-3.8.10-amd64.exe | Huaweicloud](https://repo.huaweicloud.com/python/3.8.10/python-3.8.10-amd64.exe) [10]
 10. ^ INSTALL [vlc-3.0.18-win64.exe | 南京大学开源镜像站](https://mirror.nju.edu.cn/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe) [11]
 11. ^ Allow ADD to PATH [12]
-12. ^ E.g. Windows cmd dlna device & dlna play -d "http://172.16.2.3:49152/description.xml" "rtmp://127.0.0.1:1935/live/stream"
+12. ^ [2023.06 简单投屏 v1.6 电脑 直接 投屏 电视 支持 多 网卡 / 多 网段 同时 并行 搜索 | 吾爱破解](https://www.52pojie.cn/thread-1780148-1-1.html)

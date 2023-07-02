@@ -251,12 +251,12 @@
             "push-to-talk-delay": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.窗口采集": [],
+                "libobs.hide_scene_item.窗口采集": [],
                 "libobs.show_scene_item.Keyboard": [],
                 "libobs.hide_scene_item.Keyboard": [],
                 "libobs.show_scene_item.Mouse": [],
-                "libobs.hide_scene_item.Mouse": [],
-                "libobs.show_scene_item.窗口采集": [],
-                "libobs.hide_scene_item.窗口采集": []
+                "libobs.hide_scene_item.Mouse": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -270,9 +270,9 @@
             "id": "window_capture",
             "versioned_id": "window_capture",
             "settings": {
-                "window": "Naraka:UnityWndClass:NarakaBladepoint.exe",
+                "priority": 1,
                 "method": 2,
-                "priority": 1
+                "window": "GitHub - LABORATORY-TANGMINGZE/own-obs 和另外 1 个页面 - 用户配置 1 - Microsoft​ Edge:Chrome_WidgetWin_1:msedge.exe"
             },
             "mixers": 0,
             "sync": 0,
@@ -299,8 +299,8 @@
             "versioned_id": "input-overlay",
             "settings": {
                 "io.input_source": "这台电脑",
-                "io.overlay_image": "C:/Users/Administrator/Downloads/own-obs/wasd-extended-numeric/alternative/DJOSH95/wasd-extended-numeric-red.png",
-                "io.layout_file": "C:/Users/Administrator/Downloads/own-obs/wasd-extended-numeric/alternative/DJOSH95/wasd-extended-numeric.json"
+                "io.layout_file": "C:/Users/Administrator/Downloads/own-obs/wasd-extended-numeric/alternative/DJOSH95/wasd-extended-numeric.json",
+                "io.overlay_image": "C:/Users/Administrator/Downloads/own-obs/wasd-extended-numeric/alternative/DJOSH95/wasd-extended-numeric-red.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -332,8 +332,8 @@
                 "io.monitor_v_center": 100,
                 "io.mouse_deadzone": 0,
                 "io.mouse_sens": 1,
-                "io.overlay_image": "C:/Users/Administrator/Downloads/own-obs/mouse/mouse.png",
-                "io.layout_file": "C:/Users/Administrator/Downloads/own-obs/mouse/mouse-no-movement.json"
+                "io.overlay_image": "C:/Users/Administrator/Downloads/own-obs/mouse/alternative/FAT9L/mousepink_FAT9L.png",
+                "io.layout_file": "C:/Users/Administrator/Downloads/own-obs/mouse/alternative/FAT9L/mouse_pink_no_movement_FAT9L.json"
             },
             "mixers": 0,
             "sync": 0,
